@@ -7,17 +7,19 @@ spaCy: Introdução a Processamento de Linguagem Natural(PLN)
 
 ------------------------------------------------------------------------------
 Sons:  
-	- Reconhecimento de fala [Vosk]
-	- Conversão de texto em fala [Coqui]
+ - Reconhecimento de fala [Vosk]
+	
+ - Conversão de texto em fala [Coqui]
 
 
 Imagens:
-	- Reconhecimento de imagem [Tesseract]
+
+ - Reconhecimento de imagem [Tesseract]
 
 
 Processamento de texto pode ser usado várias diversos seguimentos, por exemplo:
 
-- Classificar e extrair texto
+- Classificar e extrair texto 
 - Processar e analisar texto
 - Chatbots
 - Correções ortográficos
