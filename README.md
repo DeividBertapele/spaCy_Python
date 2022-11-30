@@ -2,7 +2,7 @@
 
 
 ##  Processamento de linguagens naturais usando Python e spaCy.
-------------------------------------------------------------------------------
+
 spaCy: Introdução a Processamento de Linguagem Natural(PLN)
 
 ------------------------------------------------------------------------------
